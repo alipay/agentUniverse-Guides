@@ -1,0 +1,1 @@
+This directory documents the competitions supported by agentUniverse.
